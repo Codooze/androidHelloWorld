@@ -19,7 +19,7 @@ class MainActivity : ComponentActivity() {
             LoginAppTheme {
                 // A surface container using the 'background' color from the theme
                 Surface(modifier = Modifier.fillMaxSize(), color = MaterialTheme.colorScheme.background) {
-                    Greeting("Jeison,  este es el hello world para el mundo del desarrollo en android")
+                    Greeting("Hello world 🥲")
 
                 }
             }
